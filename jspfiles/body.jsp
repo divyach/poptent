@@ -11,14 +11,7 @@ h1 {
 	color: blue;
 	text-align: center;
 }
-h2 {
-	color: red;
-	text-align: center;
-}
-p {
-	font-family: "Times New Roman";
-	font-size: 30px;
-}
+
 </style>
 	</head>
 	<body>	
