@@ -63,7 +63,7 @@ p {
 				<table border="0" cellpadding="2" cellspacing="5">
 					<tr class="d0">
 						<td><h4>
-							Theory Hours:
+							Theory Hours: // This is hardcoded
 						</h4></td>
 						<td>
 							<select name="theory">
